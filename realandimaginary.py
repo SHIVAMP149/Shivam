@@ -1,0 +1,5 @@
+z = complex(input("ENTER THE COMPLEX NUMBER : "))
+print("THE COMPLEX NUMBER IS :",z)
+print(z.real)
+print(z.imag)
+print(z.real + z.imag)
