@@ -3,8 +3,11 @@
 import random
 
 
-# 
+# DEFINING A FUNCTIION 
 def user():
+
+    # PLEASE CHOOSE NUMBER GREATER THAN ZERO 
+
     a = input("ENTER THE NUMBER YOU WANT TO START FROM : ")
     a = int(a)
     if a == str(a):
